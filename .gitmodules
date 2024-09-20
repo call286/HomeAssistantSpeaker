@@ -1,3 +1,3 @@
 [submodule "Software"]
 	path = Software
-	url = https://github.com/Romkabouter/ESP32-Rhasspy-Satellite.git
+	url = git@github.com:call286/ESP32-Rhasspy-Satellite.git
